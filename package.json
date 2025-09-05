@@ -1,0 +1,25 @@
+{
+  "name": "expressjs-monster",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManojTarad65/ExpressJs-Monster.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManojTarad65/ExpressJs-Monster/issues"
+  },
+  "homepage": "https://github.com/ManojTarad65/ExpressJs-Monster#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
